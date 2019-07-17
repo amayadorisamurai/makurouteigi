@@ -31,6 +31,8 @@ int main() {
 	std::cout << "Hello sfunaoka!\n";
 #elif sfunaoka
 	std::cout << "Hello sfunaoka!\n";
+#elif ysimada
+	std::cout << "Hello Ysimada!\n";
 #else
 	std::cout << "Who?\n";
 #endif
